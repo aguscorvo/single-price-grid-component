@@ -7,7 +7,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
-  - [Links](#links)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Biggest challenges](#biggest-challenges)
@@ -32,7 +32,7 @@ Desktop
 Mobile
 ![Mobile](./design/screenshot-mobile.png)
 
-### Links
+### Link
 
 - [Solution URL](https://aguscorvo.github.io/single-price-grid-component/)
 
