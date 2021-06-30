@@ -28,7 +28,9 @@ Users should be able to:
 
 <img src="./design/screenshot.png">
 
+<p align="center"> 
 <img src="./design/screenshot-mobile.png" width="375" height="800">
+</p>
 
 ### Link
 
