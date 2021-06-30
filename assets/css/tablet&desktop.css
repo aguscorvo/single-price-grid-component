@@ -44,6 +44,11 @@
   font-size: 1.5rem;
 }
 
+.subscription button:hover {
+  background-color: var(--color-white);
+  color: var(--color-bright-yellow);
+}
+
 /* CONTAINER - WHY US */
 
 .container .why-us {
