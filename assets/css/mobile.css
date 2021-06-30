@@ -7,6 +7,7 @@
   --color-white: white;
   --font-size: 1.6rem;
   --padding-mobile: 27px;
+  --padding-desktop: 40px;
   --letter-spacing: -0.5px;
   --border-radius: 5px;
 }
@@ -27,8 +28,8 @@ body {
   align-items: center;
   font-family: 'Karla', sans-serif;
   min-width: 320px;
-  height: auto;
-
+  height: 100vh;
+  min-height: 860px;
   background-color: var(--color-light-gray);
 }
 
@@ -50,7 +51,7 @@ li {
   display: grid;
   grid-template-rows: repeat(3, auto);
   margin: 70px 35px;
-  /* box-shadow: 0px 20px 80px 17px rgb(41 41 41 / 25%); */
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 /* CONTAINER - INTRO */
@@ -79,8 +80,8 @@ li {
 }
 
 .intro p {
-  font-size: 1.3rem;
-  font-weight: bold;
+  font-size: 1.4rem;
+  font-weight: 400;
   color: var(--color-grayish-blue);
   line-height: 25px;
   letter-spacing: var(--letter-spacing);
@@ -127,7 +128,7 @@ li {
   color: var(--color-white);
   font-size: var(--font-size);
   letter-spacing: var(--letter-spacing);
-  padding-bottom: 25px;
+  padding-bottom: 30px;
 }
 
 .subscription button {
@@ -138,6 +139,7 @@ li {
   padding: 15px;
   border: none;
   border-radius: var(--border-radius);
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 /* CONTAINER - WHY US */
