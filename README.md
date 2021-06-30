@@ -26,11 +26,9 @@ Users should be able to:
 
 ### Screenshots
 
-Desktop
-![Desktop](./design/screenshot.png)
+<img src="./design/screenshot.png">
 
-Mobile
-![Mobile](./design/screenshot-mobile.png)
+<img src="./design/screenshot-mobile.png" width="375" height="800">
 
 ### Link
 
