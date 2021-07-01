@@ -47,6 +47,7 @@
 .subscription button:hover {
   background-color: var(--color-white);
   color: var(--color-bright-yellow);
+  cursor: pointer;
 }
 
 /* CONTAINER - WHY US */
